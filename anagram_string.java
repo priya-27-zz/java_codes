@@ -7,10 +7,10 @@ import java.io.*;
 class GFG {
 	public static void main (String[] args) {
 	    Scanner sc= new Scanner(System.in);
-	    int n=sc.nextInt();
-      System.out.println("hello priya!!");
+	    int number=sc.nextInt();
+      System.out.println("hello  steve priya!!");
 	    int ans=0;
-	    while(n>0)
+	    while(number>0)
 	{  String str1=sc.next();
 	   String str2=sc.next();
 	   char arr1[] = str1.toCharArray();
